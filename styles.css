@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #dcdcdc;
+}
+
+h2 {
+    color: #76459f;
+}
+
+.table table {
+    border: 2px solid #9932cc;
+    margin: 0 auto;
+}
+
+.table thead th {
+    background-color: #dca0dc;
+    border-bottom: 1px solid #9932cc;
+}
+
+td {
+    text-align: left;
+    padding-right: 20px;
+    font-size: 15px;
+    border-top: 1px solid #9932cc;
+}
+
+.tag-name span {
+    font-family: monospace, sans-serif;
+    background-color: #f4f5dd;
+}
